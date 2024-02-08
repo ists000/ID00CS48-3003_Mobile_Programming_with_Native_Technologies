@@ -1,0 +1,6 @@
+Hi Jukka,
+
+This is the link of my assignment 2 Bmi project. 
+https://github.com/ists000/ID00CS48-3003_Mobile_Programming_with_Native_Technologies/tree/75baf340f2c7c06c0a1dcb1d3ea80b30d547043f/Week1/assignment/Bmi
+
+Thank you.

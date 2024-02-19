@@ -20,7 +20,6 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.example.theming.ui.theme.Purple500
 import com.example.theming.ui.theme.ThemingTheme
-import com.example.theming.ui.theme.Shapes
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

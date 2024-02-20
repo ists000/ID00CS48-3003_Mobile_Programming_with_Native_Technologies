@@ -1,1 +1,1 @@
-This is my assignment's link:https://github.com/ists000/ID00CS48-3003_Mobile_Programming_with_Native_Technologies/tree/d7ce6f9856431dcd7728f84b405a0a1e94968c49/week4/assignment5/CalorieScreen
+This is my assignment's link:https://github.com/ists000/ID00CS48-3003_Mobile_Programming_with_Native_Technologies/tree/c1f90b7968a935db192985343410bb056b2e180b/week5/assignment6/ScaffoldApp

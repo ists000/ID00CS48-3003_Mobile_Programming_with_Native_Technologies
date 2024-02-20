@@ -1,5 +1,0 @@
-This is my assignment:
-
-https://github.com/ists000/ID00CS48-3003_Mobile_Programming_with_Native_Technologies/tree/666e27083c911cfa1133dc63983acdbee01ce642/week2/assignment/loginform
-
-
